@@ -38,7 +38,7 @@
 ## Major 3
 - 将 $split-transform-merge$ 融入到resnet中
 - 不增加extra参数
-- 硬件执行慢？
+- 增加基数很有效
 
 ## Detial
 - 基本结构
