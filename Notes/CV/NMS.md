@@ -26,3 +26,12 @@ Detection Pipeline
     - the probability has positive correlation with the IoUs. So  we  approximate the probability by the most overlapped prediction on mi
 ![image.png](https://i.loli.net/2021/10/17/ZsXFmnjkprSxb5i.png)
 ![image.png](https://i.loli.net/2021/10/17/jYU12CT6KZcnJMq.png)
+
+- **Confluence** 使用曼哈顿距离来聚类临近检测框
+  - 曼哈顿距离计算  
+  ![image.png](https://i.loli.net/2021/10/21/Dh8AsIEN3OZUKFi.png)
+  - 算法伪代码  
+    - Red:  **找出confluence最高的框$b_s$**
+    - Blue: '**算$b_s$与其他box的曼哈顿距离，小于thd就清除**'
+
+  ![image.png](https://i.loli.net/2021/10/21/KnS6adD5efEtVxq.png)
