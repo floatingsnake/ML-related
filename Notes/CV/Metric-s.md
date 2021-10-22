@@ -13,7 +13,7 @@ detection of an existing object
 - Precision & Recall  
 ![image.png](https://i.loli.net/2021/10/20/TY5uPwI81WEx9lU.png)
 
-## Metric
+## Metrics
 
 - **AP(average precision)**：在pr曲线上，对precision求离散积分均值
   ![image.png](https://i.loli.net/2021/10/20/HmJ8IZbjT4keO6d.png)
