@@ -9,7 +9,7 @@
 **incorrect detection** of a **non-existing** object or a **misplaced**
 detection of an existing object
 - FN(False Negative):  
-**undetected ground-truth**bounding box
+**undetected ground-truth** bounding box
 - Precision & Recall  
 ![image.png](https://i.loli.net/2021/10/20/TY5uPwI81WEx9lU.png)
 
