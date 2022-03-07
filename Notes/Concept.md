@@ -14,3 +14,4 @@
 
 ## GAP
 >Global Average Pool全局平均池化，某个通道的特征取平均值
+
