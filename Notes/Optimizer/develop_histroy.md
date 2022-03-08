@@ -1,4 +1,8 @@
 # Optimizer
+
+## SGD ways
+![image.png](https://s2.loli.net/2022/03/08/MvRPwfIKFzNUyHS.png)
+
 ## 历史
 > SGD -> SGDM -> NAG ->AdaGrad -> AdaDelta -> Adam -> Nadam
 ## 优化器框架
