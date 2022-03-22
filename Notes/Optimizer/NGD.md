@@ -6,7 +6,7 @@ Euclidean Space can't depict parameter space correctly.
 
 Figure below show 2 distribution have same distance under Euclidean Space, but they shouldn't.
 
-!![image.png](https://s2.loli.net/2022/03/07/1SAteRPyEvnUDGL.png)(https://s2.loli.net/2022/03/07/hwpXcUEMRlsfJ1F.png)
+![image.png](https://s2.loli.net/2022/03/07/1SAteRPyEvnUDGL.png)
 
 ## Solution
 
