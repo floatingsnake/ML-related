@@ -1,0 +1,1 @@
+![image-20220420153415077](C:\Users\sunq1\OneDrive - Intel Corporation\Documents\GitHub\ML-related\Notes\Language\image-20220420153415077.png)
